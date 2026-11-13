@@ -22,7 +22,7 @@ export const SAFE = {top: 250, bottom: H - 420, left: 90, right: W - 150};
 export const SAFE_W = SAFE.right - SAFE.left; // 840
 export const SAFE_H = SAFE.bottom - SAFE.top; // 1250
 
-export const DISPLAY = 'Kerolox, monospace';
+export const DISPLAY = '"Kerolox Mono", Kerolox, monospace';
 export const LABEL = '"JetBrains Mono", "DejaVu Sans Mono", ui-monospace, monospace';
 export const SITE_DISPLAY = '"Inter Display", Inter, sans-serif';
 export const SITE_UI = 'Inter, sans-serif';
